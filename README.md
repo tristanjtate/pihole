@@ -1,0 +1,2 @@
+# pihole
+dns ad blocker
